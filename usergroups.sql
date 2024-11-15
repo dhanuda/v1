@@ -40,9 +40,6 @@ INSERT INTO `usergroups` (`id`, `groupname`) VALUES
 (1, 'Developers'),
 (2, 'Trainee'),
 (3, 'Marketing'),
-(4, 'Application Testing'),
-(5, 'Network Admin'),
-(7, 'testingqa');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
